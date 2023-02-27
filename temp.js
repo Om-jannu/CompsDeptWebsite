@@ -112,22 +112,9 @@ nav.innerHTML = `<div class="container-fluid">
                   </li>
                   <li><a class="dropdown-item" href="/faculty/faculty_recognition.html">Recognition</a></li>
                   <li>
-                      <a
-                      class="nav-link dropdown-toggle"
-                      href="#"
-                      id="navbarDropdown"
-                      role="button"
-                      data-bs-toggle="dropdown"
-                      aria-expanded="false"
-                    >Research</a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <li>
-                      <a class="dropdown-item" href="minorgrant2.html">Minor Grants</a>
-                      </li>
-                      <li>
-                      <a class="dropdown-item" href="/faculty/research_publications.html">Research Publications</a>
-                      </li>
-                    </ul>
+                  <li><a class="dropdown-item" href="/faculty/minorgrants2.html">Minor Grant</a></li>
+                  <li><a class="dropdown-item" href="/faculty/research_publications.html">Research & Publications</a></li>
+                  
                   </li>
                 </ul>
               </li>
